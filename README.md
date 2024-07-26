@@ -1,7 +1,6 @@
 # EmailSpamDetection
-Here's a `README.md` file for your spam detection project:
 
-```markdown
+
 # Spam Detection Using Logistic Regression
 
 This project demonstrates the use of Logistic Regression to classify emails as spam or ham (non-spam) using the TF-IDF vectorization technique.
